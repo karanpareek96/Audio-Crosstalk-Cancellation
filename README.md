@@ -8,5 +8,7 @@ Crosstalk cancellation allows for the reproduction of binaural audio through lou
 
 # References
 [1] Brown, C., Duda. R. (1998). “A structural model for binaural sound synthesis.” IEEE Trans. Speech and Audio Process., 6(5), pp. 476–488.
+
 [2] Roginska, A., & Geluso, P. (Eds.). (2017). Immersive Sound: The Art and Science of Binaural and Multi-channel Audio. Taylor & Francis.
+
 [3] Zölzer, Udo. 2002. “DAFX - Digital Audio Effects.” Edited by Udo Zölzer. Chichester, England: John Wiley & Sons, Ltd, pp. 575-585.
