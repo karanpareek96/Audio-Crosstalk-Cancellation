@@ -1,8 +1,4 @@
-%{
-    Assignment 4 - 3D Audio
-    Crosstalk Cancellation method using regularization
-    Karan Pareek, Chengze Zuo, Aneesh Athrey
-%}
+# Crosstalk Cancellation Method using Regularization
 
 % Read the binaural file
 [binauralSignal,fs] = audioread('test.wav');
